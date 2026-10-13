@@ -1,0 +1,40 @@
+{
+  "name": "liftli",
+  "owner": {
+    "name": "Liftli",
+    "email": "support@liftli.ai"
+  },
+  "metadata": {
+    "description": "X (Twitter) agent skills from Liftli, free on their own or with the Liftli connector."
+  },
+  "plugins": [
+    {
+      "name": "x-agent-skills",
+      "source": "./",
+      "version": "1.0.0",
+      "description": "11 free X (Twitter) agent skills by Liftli: posts, threads, hooks, replies, bios, LinkedIn and X repurposing, and a pre-publish check grounded in X's open-sourced ranking code. Every writing skill reads one shared voice file. MIT, no account needed.",
+      "author": {
+        "name": "Liftli",
+        "email": "support@liftli.ai",
+        "url": "https://liftli.ai"
+      },
+      "homepage": "https://liftli.ai/x-agent-skills/",
+      "repository": "https://github.com/liftli-ai/x-agent-skills",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "x",
+        "twitter",
+        "x-agent-skills",
+        "twitter-skills",
+        "agent-skills",
+        "claude-skills",
+        "threads",
+        "replies",
+        "content",
+        "personal-brand",
+        "social-media"
+      ]
+    }
+  ]
+}
