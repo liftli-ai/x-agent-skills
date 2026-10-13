@@ -31,7 +31,7 @@ npx skills add liftli-ai/x-agent-skills --skill x-reply-generator
 
 ```
 /plugin marketplace add liftli-ai/x-agent-skills
-/plugin install x-agent-skills@liftli
+/plugin install x-agent-skills@liftli-x
 ```
 
 **By hand:** copy any folder under `skills/` into `~/.claude/skills/`, or
